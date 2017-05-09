@@ -82,7 +82,7 @@ def main ():
             fruit = generateFruit(fruit)
 
         displayScore(snake, text)
-        update(10)
+        update(15)
 
 
 if __name__ == "__main__":
